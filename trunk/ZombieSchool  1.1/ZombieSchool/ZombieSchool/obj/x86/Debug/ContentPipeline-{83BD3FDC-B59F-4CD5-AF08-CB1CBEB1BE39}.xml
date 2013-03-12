@@ -1,0 +1,638 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MathRoom.jpg</Source>
+      <Name>MathRoom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\MathRoom.xnb</Output>
+      <Time>2013-02-10T12:37:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Blank.bmp</Source>
+      <Name>Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Blank.xnb</Output>
+      <Time>2012-09-23T15:37:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Dot.png</Source>
+      <Name>Dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Dot.xnb</Output>
+      <Time>2013-02-05T14:35:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>End.png</Source>
+      <Name>End</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\End.xnb</Output>
+      <Time>2013-02-05T15:40:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Path.png</Source>
+      <Name>Path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Path.xnb</Output>
+      <Time>2013-02-05T15:14:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2013-02-05T15:06:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>puzzle.png</Source>
+      <Name>puzzle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\puzzle.xnb</Output>
+      <Time>2013-02-10T15:51:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Puzzle01.png</Source>
+      <Name>Puzzle01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Puzzle01.xnb</Output>
+      <Time>2013-02-11T18:55:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Puzzle01Item01.png</Source>
+      <Name>Puzzle01Item01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Puzzle01Item01.xnb</Output>
+      <Time>2013-02-12T15:34:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Puzzle01Item02.png</Source>
+      <Name>Puzzle01Item02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Puzzle01Item02.xnb</Output>
+      <Time>2013-02-12T15:34:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Puzzle01Item03.png</Source>
+      <Name>Puzzle01Item03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Puzzle01Item03.xnb</Output>
+      <Time>2013-02-12T15:35:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Border.png</Source>
+      <Name>Border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Border.xnb</Output>
+      <Time>2013-02-10T12:16:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Wall.png</Source>
+      <Name>Wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Wall.xnb</Output>
+      <Time>2013-02-11T12:45:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Kid.png</Source>
+      <Name>Kid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Kid.xnb</Output>
+      <Time>2013-02-12T14:51:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaceholderZombie.jpg</Source>
+      <Name>PlaceholderZombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\PlaceholderZombie.xnb</Output>
+      <Time>2013-02-12T15:12:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlaceHolderMap.png</Source>
+      <Name>PlaceHolderMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\PlaceHolderMap.xnb</Output>
+      <Time>2013-02-20T10:18:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tempLibrary.png</Source>
+      <Name>tempLibrary</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\tempLibrary.xnb</Output>
+      <Time>2013-03-02T16:09:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DoorBorder.png</Source>
+      <Name>DoorBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\DoorBorder.xnb</Output>
+      <Time>2013-03-02T16:21:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkAnimation.png</Source>
+      <Name>WalkAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\WalkAnimation.xnb</Output>
+      <Time>2013-02-18T18:10:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GroundSmoke.png</Source>
+      <Name>GroundSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\GroundSmoke.xnb</Output>
+      <Time>2013-03-02T17:30:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>charactersprite.png</Source>
+      <Name>charactersprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\charactersprite.xnb</Output>
+      <Time>2013-03-10T23:18:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>classroom.png</Source>
+      <Name>classroom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\classroom.xnb</Output>
+      <Time>2013-03-10T21:15:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-0.png</Source>
+      <Name>0-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-0.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-1.png</Source>
+      <Name>0-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-1.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-2.png</Source>
+      <Name>0-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-2.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-3.png</Source>
+      <Name>0-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-3.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-4.png</Source>
+      <Name>0-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-4.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-5.png</Source>
+      <Name>0-5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-5.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-6.png</Source>
+      <Name>0-6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-6.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>0-7.png</Source>
+      <Name>0-7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\0-7.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-0.png</Source>
+      <Name>1-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-0.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-1.png</Source>
+      <Name>1-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-1.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-2.png</Source>
+      <Name>1-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-2.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-3.png</Source>
+      <Name>1-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-3.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-4.png</Source>
+      <Name>1-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-4.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-5.png</Source>
+      <Name>1-5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-5.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-6.png</Source>
+      <Name>1-6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-6.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>1-7.png</Source>
+      <Name>1-7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\1-7.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-0.png</Source>
+      <Name>2-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-0.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-1.png</Source>
+      <Name>2-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-1.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-2.png</Source>
+      <Name>2-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-2.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-3.png</Source>
+      <Name>2-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-3.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-4.png</Source>
+      <Name>2-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-4.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-5.png</Source>
+      <Name>2-5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-5.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-6.png</Source>
+      <Name>2-6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-6.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>2-7.png</Source>
+      <Name>2-7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\2-7.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-0.png</Source>
+      <Name>3-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-0.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-1.png</Source>
+      <Name>3-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-1.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-2.png</Source>
+      <Name>3-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-2.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-3.png</Source>
+      <Name>3-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-3.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-4.png</Source>
+      <Name>3-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-4.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-5.png</Source>
+      <Name>3-5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-5.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-6.png</Source>
+      <Name>3-6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-6.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>3-7.png</Source>
+      <Name>3-7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\3-7.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-0.png</Source>
+      <Name>4-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-0.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-1.png</Source>
+      <Name>4-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-1.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-2.png</Source>
+      <Name>4-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-2.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-3.png</Source>
+      <Name>4-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-3.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-4.png</Source>
+      <Name>4-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-4.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-5.png</Source>
+      <Name>4-5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-5.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-6.png</Source>
+      <Name>4-6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-6.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>4-7.png</Source>
+      <Name>4-7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\4-7.xnb</Output>
+      <Time>2013-03-12T00:32:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Paddle.png</Source>
+      <Name>Paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Paddle.xnb</Output>
+      <Time>2013-03-11T20:48:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Brain.png</Source>
+      <Name>Brain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\Brain.xnb</Output>
+      <Time>2013-03-11T21:05:50-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{83BD3FDC-B59F-4CD5-AF08-CB1CBEB1BE39}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchoolContent\</RootDirectory>
+      <LoggerRootDirectory>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\</LoggerRootDirectory>
+      <IntermediateDirectory>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>M:\ZombieSchool  1.1\ZombieSchool\ZombieSchool\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-25T17:04:54.9920916-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
